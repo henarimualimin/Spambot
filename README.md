@@ -10,6 +10,10 @@ $pkg instal git
 
 $git clone https://github.com/henarimualimin/Spambot
 
+$cd Spambot
+
+$ls
+
 # sesudah semuanya kalian tinggal run dengan perintah
 
 python spambot_enc.py
