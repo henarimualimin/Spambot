@@ -12,6 +12,8 @@ $pip install requests
 
 $pip install colorama
 
+$pip install bs4
+
 $git clone https://github.com/henarimualimin/Spambot
 
 $cd Spambot
