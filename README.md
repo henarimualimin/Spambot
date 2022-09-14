@@ -8,6 +8,10 @@ $pkg install python
 
 $pkg instal git
 
+$pip install requests
+
+$pip install colorama
+
 $git clone https://github.com/henarimualimin/Spambot
 
 $cd Spambot
