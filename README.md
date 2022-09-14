@@ -18,5 +18,9 @@ $ls
 
 python spambot_enc.py
 
+Atau pakai Sc kedua dengan perintah
+Python spambot2_enc.py 
+
+Tinggal kalian pilih yang mana yang bagus! 
 
 # SELAMAT MENCOBA 
