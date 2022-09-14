@@ -23,6 +23,6 @@ Python spambot2_enc.py
 
 Tinggal kalian pilih yang mana yang bagus! 
 
-#❗️ JANGAN LUPA KASIH STAR BINTANG PROFIL SAYA OKE
+# JANGAN LUPA KASIH STAR BINTANG PROFIL SAYA OKE
 
 # SELAMAT MENCOBA 
