@@ -25,10 +25,11 @@ $ls
 python spambot_enc.py
 
 Atau pakai Sc kedua dengan perintah
-Python spambot2_enc.py 
+python spambot2_enc.py 
 
 Tinggal kalian pilih yang mana yang bagus! 
 
 # JANGAN LUPA KASIH STAR BINTANG PROFIL SAYA OKE
 
+## JIKA KALIAN MENGALAMI GAGAL GUNAKAN TERMUX VERSI LAMA ATAU DSRI GOOGLE FDROID
 # SELAMAT MENCOBA 
