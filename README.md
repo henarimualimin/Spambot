@@ -22,6 +22,8 @@ $ls
 
 # sesudah semuanya kalian tinggal run dengan perintah
 
+python scspam.py
+.
 python spambot_enc.py
 
 Atau pakai Sc kedua dengan perintah
